@@ -1,0 +1,9 @@
+{
+  "name": "MERCEDES FREE REAL",
+  "short_name": "MercedesReal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0612",
+  "theme_color": "#ffd700",
+  "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/726/726623.png", "sizes": "512x512", "type": "image/png" }]
+}
